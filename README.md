@@ -11,11 +11,11 @@ THIS THING WAS HARD TO MADE AS ITS CURVES SHOULD BE ACCURATE.
 - Onshape — 3D CAD design
 - PRINTABLES TO UPLOAD
 
-##BOMMMMM
+## BOM (Bill of Materials)
 
-Item No.,Part Name,Part Number,Description,Quantity,Unit,Material,Manufacturing Process,Finish,Estimated Cost ($),Remarks
-1,Hinge Body,HINGE-001,Main hinge bracelet body from supplied STEP model,1,pcs,TBD,3D Printing,TBD,3.00,Single-part CAD model; material and finish need confirmation
-
+| Item No. | Part Name | Part Number | Description | Quantity | Unit | Material | Manufacturing Process | Finish | Estimated Cost ($) | Remarks |
+|---|---|---|---|---|---|---|---|---|---:|---|
+| 1 | Hinge Body | HINGE-001 | Main hinge bracelet body from supplied STEP model | 1 | pcs | TBD | 3D Printing | TBD | 3.00 | Single-part CAD model; material and finish need confirmation |
 
 
 ## Project Screenshots
